@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science using Python<br>👯 I’m looking to collaborate on machine learning and deep learning projects.<br>🤝 I’m looking for help with data science and DSA on C++<br>🌱 I’m currently learning cloud computing<br>💬 Ask me about web development on MERN stack.<br>
+🔭 I’m currently working on Data Science using Python<br>👯 I’m looking to collaborate on machine learning and deep learning projects.<br>🤝 I’m looking for help with data science and DSA<br>🌱 I’m currently learning cloud computing<br>💬 Ask me about web development on MERN stack.<br>
 
 
 ## 🌐 Socials:
