@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Shetty</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer based in Mumbai,India</h3>
 
-- 🌱 I’m currently learning **MERN Stack and Rest APIs**
+- 🌱 I’m currently learning **MERN Stack and Rest APIs** and trying to grow myself for a sde role.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
